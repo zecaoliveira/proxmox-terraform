@@ -9,6 +9,6 @@ By Jim's Garage!
 
 Link: https://www.youtube.com/watch?v=ZGWn6xREdDE&t=32s
 
-Use Proxmox Cloud-Init to Deploy Your Virtual Machines! Kubernetes At Home - Part 2
+- Use Proxmox Cloud-Init to Deploy Your Virtual Machines! Kubernetes At Home - Part 2
 
 Link: https://www.youtube.com/watch?v=Kv6-_--y5CM
